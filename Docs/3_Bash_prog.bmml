@@ -1,0 +1,42 @@
+<mockup version="1.0" skin="sketch" measuredW="1041" measuredH="206" mockupW="1028" mockupH="198">
+  <controls>
+    <control controlID="0" controlTypeID="__group__" x="13" y="8" w="190" h="37" measuredW="190" measuredH="37" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="4" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="0">
+          <controlProperties>
+            <icon>ScreenIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="33" y="0" w="157" h="37" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="0">
+          <controlProperties>
+            <align>left</align>
+            <text>Bash-based%20prog.%20for%20generating%20PDFs</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="18" y="69" w="398" h="43" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>pdfgen%20%5C-type%3D%27URI%27%20%5C-params%3D%27%27%20%5C-uri%3D%27http%3A//www.google.com%27</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="18" y="112" w="680" h="43" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>pdfgen%20%5C-type%3D%27HTML%27%20%5C-params%3D%27%27%20%5C-path%3D%27%5Cvar%5Cwww%5CpdfGen%5C6ff87c4664981e4397625791c8ea3bbb5f2279a3.html%27</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="726" y="60" w="315" h="146" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6684672</color>
+        <size>11</size>
+        <text>1.%20*Why%20bash%3A*%20Will%20be%20a%20fire-and-forget%20mechanism%20for%20us.%0A%20%0A2.%20Since%20the%20call%20will%20be%20made%20only%20by%20our%20Drupal%20application%2C%20it%20will%20be%20made%20post%20authentication.%20So%2C%20effectively%2C%20this%20script%20will%20be%20logicless.%20It%27s%20core%20requirement%20is%20speed.%0A%20%0A2.%20Bash%20has%20some%20size%20limitations.%20But%20we%20can%20override%20them%20at%20the%20OS%20level.%20See%20this%20link%20%28%5Bhttp%3A//www.cyberciti.biz/faq/argument-list-too-long-error-solution/%5D%29.</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::VCurly" x="698" y="54" w="26" h="73" measuredW="180" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

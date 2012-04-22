@@ -78,10 +78,10 @@
 		<tr>
 			<td>400: Bad request</td>
 			<td>Missing parameters</td>
-			<td>A list of missing fields or fields with incorrect values (for example, type). We'll throw this error if:
-				1. Any of the params are missing
-				2. Type is not one of URL or HTML
-				3. Resource is not a valid URL
+			<td>A list of missing fields or fields with incorrect values (for example, type). We'll throw this error if:<br/>
+				1. Any of the params are missing<br/>
+				2. Type is not one of URL or HTML<br/>
+				3. Resource is not a valid URL<br/>
 			</td>
 		</tr>
 		<tr>
@@ -109,7 +109,7 @@
 			<td>200: Success</td>
 			<td>PDF generated</td>
 			<td>
-				We return the generated PDF. See [here](http://stackoverflow.com/a/2186644) for an explanation of how to do this.
+				We return the generated PDF. See [here]: (http://stackoverflow.com/a/2186644) for an explanation of how to do this.
 			</td>
 		</tr>
 	</tbody>

@@ -1,0 +1,1 @@
+[Services tools module](http://drupal.org/project/services_tools): A good tool with a frontend for defining 400 errors and definitions for GET and POST.

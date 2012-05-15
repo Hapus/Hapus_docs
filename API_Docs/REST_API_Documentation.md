@@ -2,7 +2,7 @@
 
 ##GET (Fetch account information)
 
-**Method:** GET
+**Method:** POST
 
 **API Endpoint:** http://www.hapus.com/api
 
